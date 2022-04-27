@@ -9,12 +9,8 @@ https://github.com/yesimezgiseref/kodluyoruzilkrepo.git
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programını açınız. 
 
-# Resim
-![Projem](Projem.jpg)
-
-
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler içim, lütfen önce neyi değiştirmek istediğinizi tartışmak içim bir konu açınız.
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
-
+[Patika](https://app.patika.dev/paths)
