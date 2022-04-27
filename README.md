@@ -13,4 +13,6 @@ Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
 Pull requestler kabul edilir. Büyük değişiklikler içim, lütfen önce neyi değiştirmek istediğinizi tartışmak içim bir konu açınız.
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
 [Patika](https://app.patika.dev/paths)
